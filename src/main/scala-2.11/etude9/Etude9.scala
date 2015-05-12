@@ -21,7 +21,6 @@ object Etude9 {
 
     if(args.length == 3){
       executePart2(args)
-//      println(processBlock(Map(1 -> 3), Map(2 -> 3)))
     }else{
       executePart1(args)
     }
